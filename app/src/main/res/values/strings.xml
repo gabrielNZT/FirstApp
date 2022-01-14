@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="pre_o_da_gasolina">Preço da gasolina</string>
+    <string name="valor_da_gasolina">valor da gasolina:</string>
+    <string name="litros">Litros:</string>
+    <string name="calcular">Calcular</string>
+    <string name="Informe_Valor">Os campos foram preenchidos de forma inadequada!</string>
+    <string name="valor">Valor:</string>
+</resources>
